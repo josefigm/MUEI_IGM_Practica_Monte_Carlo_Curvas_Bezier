@@ -1,3 +1,7 @@
+# Autores:
+# Diego Carballido Álvarez (diego.carballido.alvarez@udc.es)
+# José Antonio Figueiras Martínez (jose.figueirasm@udc.es)
+
 import random
 
 ptosInR1 = 0
