@@ -1,0 +1,5 @@
+Ejercicio: Aproximar el área de las regiones R1, R2, R3.
+
+Utilizando el método de montecarlo con Nsim = 100000 y un Error = 2.8037866666666664 -> R1 = 3.13712
+****************************************************************************************************
+Utilizando el método de montecarlo con Nsim = 100000 y un Error = 1.9113866666666668 -> R2 = 2.24472
