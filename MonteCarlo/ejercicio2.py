@@ -71,7 +71,6 @@ pRueda = float(ptosRuedaEsferica)/float(nsim)
 
 # Cilindros superiores
 areaCircunfCilindroSuperior = 4*float(ptosCircunfCilindro)/float(nsim)
-print(areaCircunfCilindroSuperior)
 volumenCilindroSuperior = areaCircunfCilindroSuperior * alturaCilindro
 volumenCilindrosSuperiores = volumenCilindroSuperior*2
 errorCilindrosSuperiores = abs(volumenCilindrosSuperiores - math.pi*radioCircunfCilindro**2*alturaCilindro*2)
